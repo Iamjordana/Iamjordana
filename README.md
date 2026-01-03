@@ -2,18 +2,14 @@
 
 💻 Desenvolvedor em constante evolução, com foco em **desenvolvimento web** e **infraestrutura de TI**.  
 Tenho experiência tanto em **front-end**, **back-end** quanto em **redes e manutenção de computadores**.
-
 ---
-
 ## 🚀 Sobre mim
 
 - 🔹 Desenvolvo aplicações web modernas e funcionais  
 - 🔹 Experiência com **back-end**, **front-end** e **banco de dados**
 - 🔹 Conhecimento em **infraestrutura**, redes e suporte técnico
 - 🔹 Sempre buscando aprender novas tecnologias
-
 ---
-
 ## 🛠️ Tecnologias & Conhecimentos
 
 ### 💻 Desenvolvimento Web
@@ -35,24 +31,21 @@ Tenho experiência tanto em **front-end**, **back-end** quanto em **redes e manu
 - 🔧 Suporte técnico em geral  
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamjordana&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamjordana&layout=compact&theme=radical)
 
 </div>
-
 ---
-
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/)
-[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/jordana-medeiros)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/jordana_kms)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:jordanakatarinamedeirossilva@gmail.com)
 
 ---
 
