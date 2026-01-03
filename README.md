@@ -54,36 +54,3 @@ Tenho experiência tanto em **front-end**, **back-end** quanto em **redes e manu
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
 
 </div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true)
-
-</td>
-<td>
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🧪 Indicadores Técnicos
-
-```txt
-Frontend      ██████████ 80%
-Backend       █████████  75%
-Banco Dados   ████████   70%
-Infraestrutura█████████ 85%
