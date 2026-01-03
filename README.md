@@ -22,7 +22,8 @@ Tenho experiência tanto em **front-end**, **back-end** quanto em **redes e manu
 - JavaScript  
 - Node.js  
 - EJS  
-- Java  
+- Java
+- MySQL
 
 </td>
 <td width="50%">
