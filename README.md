@@ -1,25 +1,59 @@
-## Hi there 👋
-Olá! Me chamo Jordana.
+# 👋 Olá, eu sou [Seu Nome Aqui]
 
-Sou Desenvolvedora front-end júnior com habilidades em HTML, CSS e JavaScript. Tenho grande interesse por tecnologia e estou sempre buscando evoluir como profissional na área de desenvolvimento web. 
+💻 Desenvolvedor em constante evolução, com foco em **desenvolvimento web** e **infraestrutura de TI**.  
+Tenho experiência tanto em **front-end**, **back-end** quanto em **redes e manutenção de computadores**.
 
-Sobre mim
+---
 
-Sou formada como Técnica em Tecnologia da Informação e Informática, com conhecimentos em manutenção de hardware, desenvolvimento de sistemas e web, banco de dados, modelagem de sistemas e lógica de programação. Atualmente, estou me especializando em Desenvolvimento Front-end, buscando minha primeira oportunidade na área de TI. 
+## 🚀 Sobre mim
 
-Meu foco atualmente é o aprendizado contínuo para adquirir mais conhecimento e melhorar minhas habilidades.
-Meu objetivo é o crescimento pessoal e profissional, tenho muito compromisso de contribuir com dedicação e entusiasmo para os resultados da equipe e da empresa.
-<!--
-**Iamjordana/Iamjordana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔹 Desenvolvo aplicações web modernas e funcionais  
+- 🔹 Experiência com **back-end**, **front-end** e **banco de dados**
+- 🔹 Conhecimento em **infraestrutura**, redes e suporte técnico
+- 🔹 Sempre buscando aprender novas tecnologias
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Conhecimentos
+
+### 💻 Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![EJS](https://img.shields.io/badge/EJS-0d1117?style=for-the-badge&logo=ejs&logoColor=white)
+
+### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=red)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+### 🛜 Infraestrutura & TI
+- 🌐 Redes de computadores  
+- 🖥️ Manutenção de computadores (hardware e software)  
+- 🔧 Suporte técnico em geral  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:seuemail@email.com)
+
+---
+
+⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!*
