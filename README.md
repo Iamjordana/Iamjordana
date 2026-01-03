@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome Aqui]
+# 👋 Olá, eu sou Jordana Medeiros
 
 💻 Desenvolvedor em constante evolução, com foco em **desenvolvimento web** e **infraestrutura de TI**.  
 Tenho experiência tanto em **front-end**, **back-end** quanto em **redes e manutenção de computadores**.
