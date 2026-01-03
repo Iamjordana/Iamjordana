@@ -3,50 +3,87 @@
 💻 Desenvolvedor em constante evolução, com foco em **desenvolvimento web** e **infraestrutura de TI**.  
 Tenho experiência tanto em **front-end**, **back-end** quanto em **redes e manutenção de computadores**.
 ---
-## 🚀 Sobre mim
+<div align="center">
 
-- 🔹 Desenvolvo aplicações web modernas e funcionais  
-- 🔹 Experiência com **back-end**, **front-end** e **banco de dados**
-- 🔹 Conhecimento em **infraestrutura**, redes e suporte técnico
-- 🔹 Sempre buscando aprender novas tecnologias
+# 📊 Dashboard • GitHub Profile
+
+### 👨‍💻 Desenvolvedor Web & Infraestrutura de TI
+
+</div>
+
 ---
-## 🛠️ Tecnologias & Conhecimentos
 
-### 💻 Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![EJS](https://img.shields.io/badge/EJS-0d1117?style=for-the-badge&logo=ejs&logoColor=white)
+## 🧠 Visão Geral
 
-### ⚙️ Back-end
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=red)
+<table>
+<tr>
+<td width="50%">
 
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+### 💻 Desenvolvimento
+- HTML5  
+- CSS3  
+- JavaScript  
+- Node.js  
+- EJS  
+- Java  
+
+</td>
+<td width="50%">
 
 ### 🛜 Infraestrutura & TI
-- 🌐 Redes de computadores  
-- 🖥️ Manutenção de computadores (hardware e software)  
-- 🔧 Suporte técnico em geral  
+- Redes de computadores  
+- Manutenção de computadores  
+- Suporte técnico  
+- Hardware & Software  
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 🧩 Stack Tecnológica
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![Node](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamjordana&show_icons=true&theme=radical&count_private=true)
+<table>
+<tr>
+<td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamjordana&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true)
+
+</td>
+<td>
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 </div>
----
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/jordana-medeiros)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/jordana_kms)
-[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:jordanakatarinamedeirossilva@gmail.com)
 
 ---
 
-⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!*
+## 🧪 Indicadores Técnicos
+
+```txt
+Frontend      ██████████ 80%
+Backend       █████████  75%
+Banco Dados   ████████   70%
+Infraestrutura█████████ 85%
