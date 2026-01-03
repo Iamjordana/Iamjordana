@@ -4,9 +4,6 @@
 Tenho experiência tanto em **front-end**, **back-end** quanto em **redes e manutenção de computadores**.
 ---
 <div align="center">
-
-# 📊 Dashboard • GitHub Profile
-
 ### 👨‍💻 Desenvolvedor Web & Infraestrutura de TI
 
 </div>
