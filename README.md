@@ -4,13 +4,13 @@
 Tenho experiência tanto em **front-end**, **back-end** quanto em **redes e manutenção de computadores**.
 ---
 <div align="center">
-### 👨‍💻 Desenvolvedor Web & Infraestrutura de TI
+### 👨‍💻 Desenvolvedor Web & Infraestrutura de TI ###
 
 </div>
 
 ---
 
-## 🧠 Visão Geral
+## 🧠 Visão Geral ##
 
 <table>
 <tr>
